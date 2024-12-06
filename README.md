@@ -49,7 +49,7 @@ Pour que l'outil fonctionne avec Spotify, vous devez obtenir vos propres clés A
 
 1. Connectez-vous ou inscrivez-vous sur le [Dashboard Spotify for Developers](https://developer.spotify.com/dashboard/).
 2. Créez une nouvelle application et récupérez les **Client ID** et **Client Secret**.
-3. Ajoutez une URL de redirection valide (par exemple : `http://localhost:8080/callback`).
+3. Ajoutez une URL de redirection valide (par exemple : `http://localhost:8888/callback`).
 4. Ajoutez ces clés à un fichier `config.json` à la racine du projet :
    ```json
     {
@@ -94,7 +94,7 @@ iHELPForAll/
 Assurez-vous que les modules requis sont installés via `pip install -r requirements.txt`.
 
 ### Problème : "Clé API invalide"
-Vérifiez que vos clés dans le fichier `config.json` sont correctes et que l'URL de redirection correspond à celle configurée dans le Dashboard Spotify (c'est à dire `http://localhost:8080/callback`).
+Vérifiez que vos clés dans le fichier `config.json` sont correctes et que l'URL de redirection correspond à celle configurée dans le Dashboard Spotify (c'est à dire `http://localhost:8888/callback`).
 
 ---
 

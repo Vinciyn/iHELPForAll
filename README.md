@@ -105,7 +105,7 @@ Les contributions sont les bienvenues ! Suivez ces étapes pour participer :
 1. **Fork** le projet.
 2. **Clonez** votre fork en local :
    ```bash
-   git clone https://github.com/VotrePseudo/iHELPForAll.git
+   git clone https://github.com/VinciYN/iHELPForAll.git
    ```
 3. Créez une nouvelle branche pour vos modifications :
    ```bash

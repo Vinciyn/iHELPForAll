@@ -1,6 +1,6 @@
 # iHELPForAll - Spotify Utility Tool
 
-![Version](https://img.shields.io/badge/version-2.0-blue) ![Maintained](https://img.shields.io/badge/maintained-yes-green) ![License](https://img.shields.io/badge/license-MIT-yellow)
+![Version](https://img.shields.io/badge/version-1.0-blue) ![Maintained](https://img.shields.io/badge/maintained-yes-green) ![License](https://img.shields.io/badge/license-VXO/N2L/HLP-yellow)
 
 **iHELPForAll** est un outil d'utilitaires pour Spotify permettant de transférer, regrouper et sauvegarder des playlists, morceaux likés, albums et artistes entre différents comptes Spotify.
 
@@ -115,7 +115,7 @@ Les contributions sont les bienvenues ! Suivez ces étapes pour participer :
 
 ## 📝 **Licence**
 
-Ce projet est sous licence VXO. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est sous licence VXO/N2L/HLP. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ---
 

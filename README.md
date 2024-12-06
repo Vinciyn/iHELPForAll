@@ -50,11 +50,13 @@ Pour que l'outil fonctionne avec Spotify, vous devez obtenir vos propres clés A
 1. Connectez-vous ou inscrivez-vous sur le [Dashboard Spotify for Developers](https://developer.spotify.com/dashboard/).
 2. Créez une nouvelle application et récupérez les **Client ID** et **Client Secret**.
 3. Ajoutez une URL de redirection valide (par exemple : `http://localhost:8080/callback`).
-4. Ajoutez ces clés à un fichier `.env` à la racine du projet :
-   ```env
-   SPOTIFY_CLIENT_ID=VotreClientID
-   SPOTIFY_CLIENT_SECRET=VotreClientSecret
-   SPOTIFY_REDIRECT_URI=http://localhost:8080/callback
+4. Ajoutez ces clés à un fichier `config.json` à la racine du projet :
+   ```json
+    {
+      "client_id": "votre_client_id",
+      "client_secret": "votre_client_secret",
+      "redirect_uri": "http://localhost:8888/callback"
+    }
    ```
 
 ---
